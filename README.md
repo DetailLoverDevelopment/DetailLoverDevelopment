@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mike!
 - I am a german hobby developer.
 
-- With my label MikesModZ i will be creating and/or editing scripts for:
+- With my label Detail Lover Development i will be creating and/or editing scripts for:
       -> GTA Roleplay
 - 🌱 I’m currently learning.
 
